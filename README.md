@@ -1,4 +1,4 @@
-# design-pattern-for-pygame
+# Design Patterns for pygame
 
 ## Design Patterns Revisited
 - Command
